@@ -20,9 +20,6 @@ This is a Node.js-based backend service designed to process images collected fro
 
 ### Prerequisites
 - **Node.js**: Version 18.x or higher.
-- **Docker**: Optional, for containerized execution.
 
-### Installation (Without Docker)
 1. Clone the repository:
-   ```bash
   git remote add origin https://github.com/Ankit24536/image-processor.git
